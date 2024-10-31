@@ -1,0 +1,7 @@
+To show inheritance between the Quiz and Essay classes, we can make Essay extend Quiz. This establishes Quiz as the base class and Essay as the derived class. Here’s the inheritance statement:
+
+public class Essay extends Quiz {
+    // Essay class inherits all properties and methods of Quiz
+}
+
+This single line of code creates the inheritance relationship between Quiz and Essay, making Essay a subclass of Quiz.
